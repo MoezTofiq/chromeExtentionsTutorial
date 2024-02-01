@@ -1,0 +1,4 @@
+https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world
+
+notes : 
+manifest.json = contains the extentions 'capabilities and configuration' and what files to whow when.
